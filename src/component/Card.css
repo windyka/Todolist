@@ -1,0 +1,13 @@
+div.cards {
+    display: flex;
+    justify-content: center;
+}
+
+div.card.text-white {
+    width: 800px;
+    height: 400px;
+}
+
+img.card-img {
+    background-color: aqua;
+}
